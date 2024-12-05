@@ -1,0 +1,17 @@
+RP2040 Datasheet:
+https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+
+Raspberry Pi Hardware APIs:
+https://www.raspberrypi.com/documentation/pico-sdk/hardware.html
+
+RP2040 PIO Emulator:
+https://rp2040pio-docs.readthedocs.io/en/latest/index.html
+
+ST7735 Datasheet:
+https://rp2040pio-docs.readthedocs.io/en/latest/index.html
+
+Adafruit_ST7735.cpp (Startup sequence commands):
+https://github.com/adafruit/Adafruit-ST7735-Library/blob/master/Adafruit_ST7735.cpp
+
+8x8 font:
+https://github.com/dhepper/font8x8
